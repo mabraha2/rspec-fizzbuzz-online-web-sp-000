@@ -8,7 +8,7 @@ elsif
     return fizz_5
   elsif
     int % 4 == 0
-    fizz_4 = "nil"
+    fizz_4 = nil
     return fizz_4
   else
       int % 5 == 4
