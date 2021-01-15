@@ -5,4 +5,3 @@ def fizzbuzz(int)
 end
 
 fizzbuzz(3)
-
