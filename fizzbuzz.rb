@@ -5,3 +5,11 @@ fizz_3 = "Fizz"
   end
 end
 fizzbuzz(3)
+
+def fizzbuzz(int)
+  if int % 5 == 0
+fizz_5 = "Buzz"
+  return fizz_3
+  end
+end
+fizzbuzz(5)
