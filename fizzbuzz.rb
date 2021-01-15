@@ -5,5 +5,3 @@ fizz_3 = "Fizz"
   end
 end
 fizzbuzz(3)
-
-
