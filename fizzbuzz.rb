@@ -7,7 +7,7 @@ elsif
     fizz_5 = "Buzz"
     return fizz_5
   else
-      int % (3,5) == 0
+      int % (15) == 0
       fizz_15 = "FizzBuzz"
       return fizz_15
   end
