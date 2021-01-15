@@ -6,4 +6,3 @@ end
 
 fizzbuzz(3)
 
-end
