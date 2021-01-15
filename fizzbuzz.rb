@@ -6,11 +6,11 @@ elsif
    int % 5 == 0
     fizz_5 = "Buzz"
     return fizz_5
-  elsif
-      int % (15) == 0
+  else
+      int % (3,5) == 0
       fizz_15 = "FizzBuzz"
       return fizz_15
   end
 end
 
-fizzbuzz(3)
+fizzbuzz()
