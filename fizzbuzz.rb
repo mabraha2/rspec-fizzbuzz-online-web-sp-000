@@ -12,4 +12,4 @@ elsif
       return fizz_15
   end
 end
-fizzbuzz(15)
+fizzbuzz(5)
