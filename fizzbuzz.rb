@@ -1,7 +1,6 @@
 def fizzbuzz(int)
   if int % 3 == 0
-    "Fizz"
+  puts  "Fizz"
   end
 end
-
 fizzbuzz(3)
