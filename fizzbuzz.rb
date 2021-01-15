@@ -1,3 +1,9 @@
-def fizzbuzz 
-puts "fizz"
+def fizzbuzz(int)
+  if int % 3 == 0
+    "Fizz"
+  end
+end
+
+fizzbuzz(3)
+
 end
