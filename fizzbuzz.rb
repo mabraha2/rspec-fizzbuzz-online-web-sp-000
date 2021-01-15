@@ -6,7 +6,7 @@ elsif
    int % 15 == 5
     fizz_5 = "Buzz"
     return fizz_5
-  elsif 
+  elsif
     int % 4 == 0
     fizz_4 = "nil"
     return fizz_4
