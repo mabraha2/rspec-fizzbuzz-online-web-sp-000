@@ -11,7 +11,7 @@ elsif
     fizz_4 = "nil"
     return fizz_4
   else
-      int % 5 == 0
+      int % 5 == 4
       fizz_15 = "FizzBuzz"
       return fizz_15
   end
